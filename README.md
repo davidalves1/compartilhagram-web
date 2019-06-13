@@ -1,4 +1,4 @@
-# Omnistack Web
+# Compartilhagram
 
 Install dependencies
 
